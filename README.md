@@ -24,4 +24,4 @@ http://localhost:9000/note/5a5b2a0a798e2b502fab7aef
 * axios
 
 ## 效果图
-![img](./screenshots/example.png)
+略~~🍡🍡🍡
